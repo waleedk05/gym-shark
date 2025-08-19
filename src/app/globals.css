@@ -3,6 +3,11 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --primary-dark: #171717;
+  --primary-light: #040404;
+  --secondary-dark: #706c61;
+  --secondary-light: #57544b;
+  --text-primary: #171717;
 }
 
 @theme inline {
